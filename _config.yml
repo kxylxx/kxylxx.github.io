@@ -1,10 +1,10 @@
 # Site settings
 title: BY kxylxx
-SEOTitle: 雪之晨的博客 | BY kxylxx
+SEOTitle: 羽羊的博客 | BY kxylxx
 header-img: img/post-bg-desk.jpg
 email: kiisxx1993727@gmail.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY kxylxx, 雪之晨的博客, kxylxx, 孔翔玉, iOS, Apple, iPhone"
+keyword: "BY, BY kxylxx, 羽羊的博客, kxylxx, 孔翔玉, iOS, Apple, iPhone"
 url: "http://kxylxx.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/kxylxx/kxylxx.github.io.git" # you code repository
